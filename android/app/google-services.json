@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534631611099",
+    "project_id": "blackoffer-30666",
+    "storage_bucket": "blackoffer-30666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534631611099:android:d30d5746cae7e2d6b8aafe",
+        "android_client_info": {
+          "package_name": "com.example.blackoffer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC_JSToz4C51VqWQPAnPiQRyOr142gsyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
